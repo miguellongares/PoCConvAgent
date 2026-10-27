@@ -1,0 +1,13 @@
+#Standard to ignore
+.env
+qdrant_data/
+__pycache__/
+.DS_Store
+
+#Folders to ignore
+data/
+00_extra/
+
+#Files to ignore
+test*
+

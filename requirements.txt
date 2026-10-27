@@ -1,0 +1,10 @@
+openai-agents
+openai
+chainlit
+httpx
+docling
+FlagEmbedding
+qdrant-client
+pydantic-settings
+rasterio
+matplotlib
